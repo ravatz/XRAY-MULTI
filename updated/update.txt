@@ -1,7 +1,7 @@
 <p align="center">
 
 # XRAY MULTI PORT MOD
-- ***Script XRAY Multi Port 443/80 MOD By Rava***
+- ***Script XRAY Multi Port 443/80 MOD By ravatz***
 - ***Original Script By SL***
 - ***SCRIPT UNTUK MEMBUAT SERVER VPN***
 #
